@@ -52,3 +52,4 @@ itprofil.enc
 *.vcpexx
 OUT_PR.666
 xyz.xyz
+*Attache.Infrastructure.Crypto.dll
